@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ridwan.maxamed1@gmail.com**
 
-- ⚡ Fun fact **I think I am funnt**
+- ⚡ Fun fact **I think I am funy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
