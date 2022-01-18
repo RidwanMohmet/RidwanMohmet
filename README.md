@@ -4,7 +4,7 @@ I'm Ridwan from Somaliland, I really enjoy learning languages and frameworks lik
 
 Skills:   REACT /NEXT/ JS / HTML / CSS
 
-- 🔭 I’m currently working on this page.[https://tasmakoulutukset.com/][http://gotransport.fi/] 
+- 🔭 I’m currently working on this page.[https://tasmakoulutukset.com/]
 - 🌱 I’m currently learning Node.js 
 - 📫 How to reach me: @RiddwanMohamed 
 - ⚡ Fun fact: I like reading and coding 
